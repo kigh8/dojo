@@ -2,4 +2,4 @@
 int main (){
 printf("meiri kurushimimasu");
 return 0;
-}kkk
+}
